@@ -1,3 +1,5 @@
+Wrapper должен находиться в папке .mvn но github говорит что this file is hidden и поэтому не хочет загружать.
+
 # hibernate-tutorial Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
